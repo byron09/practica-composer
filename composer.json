@@ -14,9 +14,5 @@
 	},
 
 	"minimun-stability":"dev",
-	"autoload":{
-		"psr4":{
-			"saludo:\\":"principal"
-		}
-	}
+
 }
