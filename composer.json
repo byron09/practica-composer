@@ -1,6 +1,18 @@
 {
-	"name":"Byron/Project"
-	{
-		
-	}
+	"name":"Byron/hola-mundo",
+	"descripcion":"primera practica packagist",
+	"type":"library",
+	"version":"1.0",
+	"authors":[{
+		"name":"Byron Ramirez",
+		"email":"byronr07@gmail.com",
+		"role":"creator"
+	}],
+
+	"required":{
+		"php":">5.4"
+	},
+
+	"minimun-stability":"dev",
+	
 }
